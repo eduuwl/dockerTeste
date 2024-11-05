@@ -1,0 +1,13 @@
+{
+    "name": "node-dockeer",
+    "version": "1.0.0",
+    "description": "Node.js pra rodar em Docker",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "http": "*"
+    }
+  }
+  
